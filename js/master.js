@@ -199,7 +199,7 @@ let checkAnswers = function (rAnswer) {
   let options = document.getElementsByName("answer");
 
   if(index < questoinsCount){
-    for(let i = 0; i < 3; i++){
+    for(let i = 0; i < options.length; i++){
       if(options[i].checked){
         choosenAnswer = options[i].dataset.answer;
       }
