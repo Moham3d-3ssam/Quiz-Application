@@ -1,2 +1,2 @@
 # Quiz-Application
-JS_Template_Numbe_Two
+JS_Template_Number_Two
