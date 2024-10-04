@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What is the capital of France?",
+    "answer_1": "Madrid",
+    "answer_2": "Berlin",
+    "answer_3": "Paris",
+    "answer_4": "Rome",
+    "right_answer": "Paris"
+  },
+  {
+    "title": "Who wrote the famous play 'Romeo and Juliet'?",
+    "answer_1": "Charles Dickens",
+    "answer_2": "J.K. Rowling",
+    "answer_3": "William Shakespeare",
+    "answer_4": "Mark Twain",
+    "right_answer": "William Shakespeare"
+  },
+  {
+    "title": "What is the largest ocean on Earth?",
+    "answer_1": "Atlantic Ocean",
+    "answer_2": "Indian Ocean",
+    "answer_3": "Pacific Ocean",
+    "answer_4": "Arctic Ocean",
+    "right_answer": "Pacific Ocean"
+  },
+  {
+    "title": "Who was the first person to set foot on the moon?",
+    "answer_1": "Yuri Gagarin",
+    "answer_2": "Buzz Aldrin",
+    "answer_3": "Neil Armstrong",
+    "answer_4": "Michael Collins",
+    "right_answer": "Neil Armstrong"
+  },
+  {
+    "title": "What is the hardest natural substance on Earth?",
+    "answer_1": "Gold",
+    "answer_2": "Iron",
+    "answer_3": "Sapphire",
+    "answer_4": "Diamond",
+    "right_answer": "Diamond"
+  },
+  {
+    "title": "Who painted 'The Last Supper'?",
+    "answer_1": "Vincent van Gogh",
+    "answer_2": "Pablo Picasso",
+    "answer_3": "Leonardo da Vinci",
+    "answer_4": "Michelangelo",
+    "right_answer": "Leonardo da Vinci"
+  },
+  {
+    "title": "Which planet is known as the Red Planet?",
+    "answer_1": "Venus",
+    "answer_2": "Jupiter",
+    "answer_3": "Mercury",
+    "answer_4": "Mars",
+    "right_answer": "Mars"
+  },
+  {
+    "title": "Who discovered penicillin?",
+    "answer_1": "Marie Curie",
+    "answer_2": "Alexander Fleming",
+    "answer_3": "Louis Pasteur",
+    "answer_4": "Edward Jenner",
+    "right_answer": "Alexander Fleming"
+  },
+  {
+    "title": "Which country has the highest population?",
+    "answer_1": "India",
+    "answer_2": "USA",
+    "answer_3": "China",
+    "answer_4": "Russia",
+    "right_answer": "China"
+  },
+  {
+    "title": "In which year did the Titanic sink?",
+    "answer_1": "1912",
+    "answer_2": "1914",
+    "answer_3": "1920",
+    "answer_4": "1918",
+    "right_answer": "1912"
+  },
+  {
+    "title": "What is the smallest country in the world by area?",
+    "answer_1": "Monaco",
+    "answer_2": "Vatican City",
+    "answer_3": "San Marino",
+    "answer_4": "Liechtenstein",
+    "right_answer": "Vatican City"
+  },
+  {
+    "title": "Who was the British Prime Minister during World War II?",
+    "answer_1": "Winston Churchill",
+    "answer_2": "Margaret Thatcher",
+    "answer_3": "Neville Chamberlain",
+    "answer_4": "Tony Blair",
+    "right_answer": "Winston Churchill"
+  },
+  {
+    "title": "Which country gifted the Statue of Liberty to the USA?",
+    "answer_1": "Germany",
+    "answer_2": "Italy",
+    "answer_3": "France",
+    "answer_4": "Spain",
+    "right_answer": "France"
+  },
+  {
+    "title": "What element does the chemical symbol 'O' represent?",
+    "answer_1": "Oxygen",
+    "answer_2": "Gold",
+    "answer_3": "Osmium",
+    "answer_4": "Iron",
+    "right_answer": "Oxygen"
+  },
+  {
+    "title": "What is the tallest mountain in the world?",
+    "answer_1": "K2",
+    "answer_2": "Mount Everest",
+    "answer_3": "Kilimanjaro",
+    "answer_4": "Denali",
+    "right_answer": "Mount Everest"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What does 'ATM' stand for in banking?",
+    "answer_1": "Automatic Teller Machine",
+    "answer_2": "Automated Teller Machine",
+    "answer_3": "Automatic Transfer Machine",
+    "answer_4": "Automated Transaction Machine",
+    "right_answer": "Automated Teller Machine"
+  },
+  {
+    "title": "What does 'PIN' stand for in banking?",
+    "answer_1": "Personal Identification Number",
+    "answer_2": "Private Identification Number",
+    "answer_3": "Public Identity Number",
+    "answer_4": "Personal Internet Number",
+    "right_answer": "Personal Identification Number"
+  },
+  {
+    "title": "What does 'USB' stand for?",
+    "answer_1": "Universal Serial Bus",
+    "answer_2": "Universal System Backup",
+    "answer_3": "Universal Software Bus",
+    "answer_4": "Universal Serial Backup",
+    "right_answer": "Universal Serial Bus"
+  },
+  {
+    "title": "What does 'FBI' stand for?",
+    "answer_1": "Federal Bureau of Investigation",
+    "answer_2": "Federal Bureau of Intelligence",
+    "answer_3": "Federal Bureau of Information",
+    "answer_4": "Federal Board of Investigation",
+    "right_answer": "Federal Bureau of Investigation"
+  },
+  {
+    "title": "What does 'Wi-Fi' stand for?",
+    "answer_1": "Wireless Fidelity",
+    "answer_2": "Wireless Finder",
+    "answer_3": "Wide Fidelity",
+    "answer_4": "Wireless Frequency",
+    "right_answer": "Wireless Fidelity"
+  },
+  {
+    "title": "What does 'CEO' stand for?",
+    "answer_1": "Chief Executive Officer",
+    "answer_2": "Chief Economic Officer",
+    "answer_3": "Corporate Executive Officer",
+    "answer_4": "Chief Engineering Officer",
+    "right_answer": "Chief Executive Officer"
+  },
+  {
+    "title": "What does 'GPS' stand for?",
+    "answer_1": "Global Positioning System",
+    "answer_2": "Global Position System",
+    "answer_3": "Global Public System",
+    "answer_4": "Geographical Positioning System",
+    "right_answer": "Global Positioning System"
+  },
+  {
+    "title": "What does 'SIM' stand for?",
+    "answer_1": "Subscriber Identity Module",
+    "answer_2": "System Identity Module",
+    "answer_3": "Subscriber Internet Module",
+    "answer_4": "Service Identification Module",
+    "right_answer": "Subscriber Identity Module"
+  },
+  {
+    "title": "What does 'SMS' stand for in texting?",
+    "answer_1": "Short Message Service",
+    "answer_2": "Small Message Service",
+    "answer_3": "Short Multimedia Service",
+    "answer_4": "Simple Messaging System",
+    "right_answer": "Short Message Service"
+  },
+  {
+    "title": "What does 'UN' stand for?",
+    "answer_1": "United Nations",
+    "answer_2": "Universal Nations",
+    "answer_3": "United Networks",
+    "answer_4": "Universal Networks",
+    "right_answer": "United Nations"
+  },
+  {
+    "title": "What does 'NASA' stand for?",
+    "answer_1": "National Aeronautics and Space Administration",
+    "answer_2": "National Air and Space Agency",
+    "answer_3": "National Astronomical Space Agency",
+    "answer_4": "National Air and Science Agency",
+    "right_answer": "National Aeronautics and Space Administration"
+  },
+  {
+    "title": "What does 'USB' stand for in technology?",
+    "answer_1": "Universal Serial Bus",
+    "answer_2": "Universal System Bus",
+    "answer_3": "Universal Storage Bus",
+    "answer_4": "United Serial Bus",
+    "right_answer": "Universal Serial Bus"
+  },
+  {
+    "title": "What does 'HTML' stand for?",
+    "answer_1": "Hypertext Markup Language",
+    "answer_2": "Hypertext Transfer Language",
+    "answer_3": "Hypertext Machine Language",
+    "answer_4": "Hypertext Media Language",
+    "right_answer": "Hypertext Markup Language"
+  },
+  {
+    "title": "What does 'ASAP' stand for?",
+    "answer_1": "As Soon As Possible",
+    "answer_2": "As Swift As Possible",
+    "answer_3": "As Smart As Possible",
+    "answer_4": "As Smooth As Possible",
+    "right_answer": "As Soon As Possible"
+  },
+  {
+    "title": "What does 'URL' stand for?",
+    "answer_1": "Uniform Resource Locator",
+    "answer_2": "Unified Resource Locator",
+    "answer_3": "Universal Resource Locator",
+    "answer_4": "Uniform Reading Locator",
+    "right_answer": "Uniform Resource Locator"
+  }
+]

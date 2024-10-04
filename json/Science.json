@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What is the chemical symbol for water?",
+    "answer_1": "H2O",
+    "answer_2": "CO2",
+    "answer_3": "O2",
+    "answer_4": "NaCl",
+    "right_answer": "H2O"
+  },
+  {
+    "title": "What planet is closest to the sun?",
+    "answer_1": "Venus",
+    "answer_2": "Earth",
+    "answer_3": "Mars",
+    "answer_4": "Mercury",
+    "right_answer": "Mercury"
+  },
+  {
+    "title": "What gas do plants absorb from the atmosphere?",
+    "answer_1": "Oxygen",
+    "answer_2": "Nitrogen",
+    "answer_3": "Carbon Dioxide",
+    "answer_4": "Hydrogen",
+    "right_answer": "Carbon Dioxide"
+  },
+  {
+    "title": "What force keeps objects grounded on Earth?",
+    "answer_1": "Magnetism",
+    "answer_2": "Gravity",
+    "answer_3": "Friction",
+    "answer_4": "Electricity",
+    "right_answer": "Gravity"
+  },
+  {
+    "title": "Which planet is known for its rings?",
+    "answer_1": "Neptune",
+    "answer_2": "Jupiter",
+    "answer_3": "Saturn",
+    "answer_4": "Uranus",
+    "right_answer": "Saturn"
+  },
+  {
+    "title": "What is the main gas found in the air we breathe?",
+    "answer_1": "Oxygen",
+    "answer_2": "Nitrogen",
+    "answer_3": "Carbon Dioxide",
+    "answer_4": "Helium",
+    "right_answer": "Nitrogen"
+  },
+  {
+    "title": "What part of the brain controls movement and balance?",
+    "answer_1": "Cerebellum",
+    "answer_2": "Cerebrum",
+    "answer_3": "Brainstem",
+    "answer_4": "Thalamus",
+    "right_answer": "Cerebellum"
+  },
+  {
+    "title": "What particle is negatively charged in an atom?",
+    "answer_1": "Proton",
+    "answer_2": "Neutron",
+    "answer_3": "Electron",
+    "answer_4": "Positron",
+    "right_answer": "Electron"
+  },
+  {
+    "title": "What is the study of fossils called?",
+    "answer_1": "Archaeology",
+    "answer_2": "Paleontology",
+    "answer_3": "Geology",
+    "answer_4": "Anthropology",
+    "right_answer": "Paleontology"
+  },
+  {
+    "title": "What is the most abundant gas in Earth's atmosphere?",
+    "answer_1": "Oxygen",
+    "answer_2": "Nitrogen",
+    "answer_3": "Argon",
+    "answer_4": "Carbon Dioxide",
+    "right_answer": "Nitrogen"
+  },
+  {
+    "title": "What type of celestial body is the sun?",
+    "answer_1": "Planet",
+    "answer_2": "Star",
+    "answer_3": "Comet",
+    "answer_4": "Asteroid",
+    "right_answer": "Star"
+  },
+  {
+    "title": "What is the boiling point of water at sea level in degrees Celsius?",
+    "answer_1": "90°C",
+    "answer_2": "100°C",
+    "answer_3": "120°C",
+    "answer_4": "80°C",
+    "right_answer": "100°C"
+  },
+  {
+    "title": "What element has the atomic number 1?",
+    "answer_1": "Hydrogen",
+    "answer_2": "Helium",
+    "answer_3": "Lithium",
+    "answer_4": "Carbon",
+    "right_answer": "Hydrogen"
+  },
+  {
+    "title": "Which scientist developed the theory of relativity?",
+    "answer_1": "Isaac Newton",
+    "answer_2": "Nikola Tesla",
+    "answer_3": "Albert Einstein",
+    "answer_4": "Galileo Galilei",
+    "right_answer": "Albert Einstein"
+  },
+  {
+    "title": "What is the chemical symbol for gold?",
+    "answer_1": "Au",
+    "answer_2": "Ag",
+    "answer_3": "Pb",
+    "answer_4": "Fe",
+    "right_answer": "Au"
+  }
+]

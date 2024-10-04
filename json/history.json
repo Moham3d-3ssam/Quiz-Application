@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Who was the first president of the United States?",
+    "answer_1": "Abraham Lincoln",
+    "answer_2": "George Washington",
+    "answer_3": "Thomas Jefferson",
+    "answer_4": "John Adams",
+    "right_answer": "George Washington"
+  },
+  {
+    "title": "In which year did World War II end?",
+    "answer_1": "1942",
+    "answer_2": "1945",
+    "answer_3": "1950",
+    "answer_4": "1939",
+    "right_answer": "1945"
+  },
+  {
+    "title": "Who discovered America?",
+    "answer_1": "Christopher Columbus",
+    "answer_2": "Marco Polo",
+    "answer_3": "Vasco da Gama",
+    "answer_4": "Leif Erikson",
+    "right_answer": "Christopher Columbus"
+  },
+  {
+    "title": "Which empire was known for its gladiators and colosseum?",
+    "answer_1": "Roman Empire",
+    "answer_2": "Ottoman Empire",
+    "answer_3": "Mongol Empire",
+    "answer_4": "British Empire",
+    "right_answer": "Roman Empire"
+  },
+  {
+    "title": "Who was the leader of Germany during World War II?",
+    "answer_1": "Joseph Stalin",
+    "answer_2": "Adolf Hitler",
+    "answer_3": "Winston Churchill",
+    "answer_4": "Benito Mussolini",
+    "right_answer": "Adolf Hitler"
+  },
+  {
+    "title": "Which civilization built the pyramids?",
+    "answer_1": "Romans",
+    "answer_2": "Aztecs",
+    "answer_3": "Egyptians",
+    "answer_4": "Mayans",
+    "right_answer": "Egyptians"
+  },
+  {
+    "title": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "answer_1": "Amelia Earhart",
+    "answer_2": "Sally Ride",
+    "answer_3": "Marie Curie",
+    "answer_4": "Rosalind Franklin",
+    "right_answer": "Amelia Earhart"
+  },
+  {
+    "title": "In which city was the Titanic built?",
+    "answer_1": "Liverpool",
+    "answer_2": "Belfast",
+    "answer_3": "Southampton",
+    "answer_4": "Glasgow",
+    "right_answer": "Belfast"
+  },
+  {
+    "title": "Who was the British monarch during the American Revolution?",
+    "answer_1": "Queen Victoria",
+    "answer_2": "King George III",
+    "answer_3": "King Henry VIII",
+    "answer_4": "Queen Elizabeth I",
+    "right_answer": "King George III"
+  },
+  {
+    "title": "Which famous historical figure is known for his 'I Have a Dream' speech?",
+    "answer_1": "Nelson Mandela",
+    "answer_2": "Malcolm X",
+    "answer_3": "Martin Luther King Jr.",
+    "answer_4": "Mahatma Gandhi",
+    "right_answer": "Martin Luther King Jr."
+  },
+  {
+    "title": "When did the Berlin Wall fall?",
+    "answer_1": "1979",
+    "answer_2": "1989",
+    "answer_3": "1999",
+    "answer_4": "1969",
+    "right_answer": "1989"
+  },
+  {
+    "title": "Who was the first emperor of Rome?",
+    "answer_1": "Nero",
+    "answer_2": "Julius Caesar",
+    "answer_3": "Augustus",
+    "answer_4": "Caligula",
+    "right_answer": "Augustus"
+  },
+  {
+    "title": "What event started World War I?",
+    "answer_1": "The assassination of Archduke Franz Ferdinand",
+    "answer_2": "The invasion of Poland",
+    "answer_3": "The bombing of Pearl Harbor",
+    "answer_4": "The signing of the Treaty of Versailles",
+    "right_answer": "The assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "title": "Which city was the capital of the Byzantine Empire?",
+    "answer_1": "Rome",
+    "answer_2": "Athens",
+    "answer_3": "Constantinople",
+    "answer_4": "Alexandria",
+    "right_answer": "Constantinople"
+  },
+  {
+    "title": "Who was the first African American president of the United States?",
+    "answer_1": "Barack Obama",
+    "answer_2": "Martin Luther King Jr.",
+    "answer_3": "Frederick Douglass",
+    "answer_4": "Colin Powell",
+    "right_answer": "Barack Obama"
+  }
+]

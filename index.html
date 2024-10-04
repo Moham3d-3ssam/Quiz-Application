@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <link rel="website icon" type="png" href="images/icon.png">
+  <title>Quiz Application</title>
+</head>
+  <body>
+
+    
+    
+    <div class="quiz-app">
+      
+      <div class="quiz-info">
+        <div class="mode">
+          <i class="fa-solid fa-sun"></i>
+        </div>
+        <div>Category :
+          <select class="category">
+            <option value="general">General</option>
+            <option value="programming">Programming</option>
+            <option value="football">Football</option>
+            <option value="science">Science</option>
+            <option value="mathematics">Mathematics</option>
+            <option value="abbreviations">Abbreviations</option>
+            <option value="languages">Languages</option>
+            <option value="history">History</option>
+            <option value="capitals">Capitals</option>
+            <option value="sports">Sports</option>
+          </select>
+        </div>
+        <div class="count">Questions Count : <span></span></div>
+      </div>
+
+      <div class="quiz-area"></div>
+
+      <div class="answers-area"></div>
+
+      <button class="submit-button">Submit Answer</button>
+
+      <div class="bullets">
+        <div class="spans"></div>
+        <div class="countdown"></div>
+      </div>
+
+      <div class="results"></div>
+    </div>
+
+    <script src="js/master.js"></script>
+
+  </body>
+</html>

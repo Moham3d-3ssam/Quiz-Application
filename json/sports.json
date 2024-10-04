@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Which country won the FIFA World Cup in 2018?",
+    "answer_1": "Brazil",
+    "answer_2": "Germany",
+    "answer_3": "France",
+    "answer_4": "Argentina",
+    "right_answer": "France"
+  },
+  {
+    "title": "What sport is Michael Jordan famous for?",
+    "answer_1": "Tennis",
+    "answer_2": "Basketball",
+    "answer_3": "Soccer",
+    "answer_4": "Baseball",
+    "right_answer": "Basketball"
+  },
+  {
+    "title": "How many players are on a standard soccer team?",
+    "answer_1": "9",
+    "answer_2": "10",
+    "answer_3": "11",
+    "answer_4": "12",
+    "right_answer": "11"
+  },
+  {
+    "title": "Which country has won the most Olympic gold medals?",
+    "answer_1": "China",
+    "answer_2": "Russia",
+    "answer_3": "USA",
+    "answer_4": "Great Britain",
+    "right_answer": "USA"
+  },
+  {
+    "title": "Which tennis player has won the most Grand Slam titles (men)?",
+    "answer_1": "Rafael Nadal",
+    "answer_2": "Novak Djokovic",
+    "answer_3": "Roger Federer",
+    "answer_4": "Pete Sampras",
+    "right_answer": "Novak Djokovic"
+  },
+  {
+    "title": "What sport uses a puck?",
+    "answer_1": "Tennis",
+    "answer_2": "Hockey",
+    "answer_3": "Golf",
+    "answer_4": "Cricket",
+    "right_answer": "Hockey"
+  },
+  {
+    "title": "Who holds the record for the most home runs in MLB history?",
+    "answer_1": "Babe Ruth",
+    "answer_2": "Hank Aaron",
+    "answer_3": "Barry Bonds",
+    "answer_4": "Alex Rodriguez",
+    "right_answer": "Barry Bonds"
+  },
+  {
+    "title": "What is the term for three strikes in a row in bowling?",
+    "answer_1": "Spare",
+    "answer_2": "Strike",
+    "answer_3": "Turkey",
+    "answer_4": "Hat-trick",
+    "right_answer": "Turkey"
+  },
+  {
+    "title": "In what year did Roger Bannister break the 4-minute mile?",
+    "answer_1": "1954",
+    "answer_2": "1964",
+    "answer_3": "1974",
+    "answer_4": "1984",
+    "right_answer": "1954"
+  },
+  {
+    "title": "Which country is the birthplace of cricket?",
+    "answer_1": "India",
+    "answer_2": "Australia",
+    "answer_3": "South Africa",
+    "answer_4": "England",
+    "right_answer": "England"
+  },
+  {
+    "title": "Which team won the first ever Super Bowl?",
+    "answer_1": "Green Bay Packers",
+    "answer_2": "Kansas City Chiefs",
+    "answer_3": "Dallas Cowboys",
+    "answer_4": "New England Patriots",
+    "right_answer": "Green Bay Packers"
+  },
+  {
+    "title": "Who holds the record for the most goals scored in a single World Cup?",
+    "answer_1": "Pelé",
+    "answer_2": "Ronaldo",
+    "answer_3": "Just Fontaine",
+    "answer_4": "Miroslav Klose",
+    "right_answer": "Just Fontaine"
+  },
+  {
+    "title": "In which sport is the term 'hat-trick' commonly used?",
+    "answer_1": "Cricket",
+    "answer_2": "Football",
+    "answer_3": "Basketball",
+    "answer_4": "Baseball",
+    "right_answer": "Football"
+  },
+  {
+    "title": "How many rings are there on the Olympic flag?",
+    "answer_1": "4",
+    "answer_2": "5",
+    "answer_3": "6",
+    "answer_4": "7",
+    "right_answer": "5"
+  },
+  {
+    "title": "Who is known as the 'King of Football'?",
+    "answer_1": "Lionel Messi",
+    "answer_2": "Diego Maradona",
+    "answer_3": "Pelé",
+    "answer_4": "Cristiano Ronaldo",
+    "right_answer": "Pelé"
+  }
+]

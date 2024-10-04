@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What is the most spoken language in the world?",
+    "answer_1": "English",
+    "answer_2": "Mandarin Chinese",
+    "answer_3": "Spanish",
+    "answer_4": "Hindi",
+    "right_answer": "Mandarin Chinese"
+  },
+  {
+    "title": "Which language is primarily spoken in Brazil?",
+    "answer_1": "Spanish",
+    "answer_2": "French",
+    "answer_3": "Portuguese",
+    "answer_4": "Italian",
+    "right_answer": "Portuguese"
+  },
+  {
+    "title": "What is the official language of Egypt?",
+    "answer_1": "Arabic",
+    "answer_2": "English",
+    "answer_3": "Spanish",
+    "answer_4": "Hebrew",
+    "right_answer": "Arabic"
+  },
+  {
+    "title": "Which language uses the Cyrillic alphabet?",
+    "answer_1": "German",
+    "answer_2": "Turkish",
+    "answer_3": "Russian",
+    "answer_4": "Japanese",
+    "right_answer": "Russian"
+  },
+  {
+    "title": "What is the term for a word that has the same meaning as another word?",
+    "answer_1": "Antonym",
+    "answer_2": "Idiom",
+    "answer_3": "Synonym",
+    "answer_4": "Homonym",
+    "right_answer": "Synonym"
+  },
+  {
+    "title": "Which of the following languages is written from right to left?",
+    "answer_1": "Spanish",
+    "answer_2": "Arabic",
+    "answer_3": "English",
+    "answer_4": "Korean",
+    "right_answer": "Arabic"
+  },
+  {
+    "title": "What is the term for a word that sounds the same but has a different meaning?",
+    "answer_1": "Antonym",
+    "answer_2": "Homonym",
+    "answer_3": "Oxymoron",
+    "answer_4": "Idiom",
+    "right_answer": "Homonym"
+  },
+  {
+    "title": "Which language is known for its use of characters rather than an alphabet?",
+    "answer_1": "Korean",
+    "answer_2": "Italian",
+    "answer_3": "Chinese",
+    "answer_4": "English",
+    "right_answer": "Chinese"
+  },
+  {
+    "title": "What is the most widely spoken language in the European Union?",
+    "answer_1": "French",
+    "answer_2": "German",
+    "answer_3": "English",
+    "answer_4": "Spanish",
+    "right_answer": "English"
+  },
+  {
+    "title": "Which of the following is a Romance language?",
+    "answer_1": "German",
+    "answer_2": "Chinese",
+    "answer_3": "Italian",
+    "answer_4": "Russian",
+    "right_answer": "Italian"
+  },
+  {
+    "title": "Which language is often referred to as the 'language of love'?",
+    "answer_1": "Spanish",
+    "answer_2": "Italian",
+    "answer_3": "French",
+    "answer_4": "Portuguese",
+    "right_answer": "French"
+  },
+  {
+    "title": "Which language has the largest number of native speakers?",
+    "answer_1": "Mandarin Chinese",
+    "answer_2": "Spanish",
+    "answer_3": "Hindi",
+    "answer_4": "English",
+    "right_answer": "Mandarin Chinese"
+  },
+  {
+    "title": "What is the main language spoken in Iran?",
+    "answer_1": "Arabic",
+    "answer_2": "English",
+    "answer_3": "Persian",
+    "answer_4": "Turkish",
+    "right_answer": "Persian"
+  },
+  {
+    "title": "Which language is primarily spoken in Austria?",
+    "answer_1": "German",
+    "answer_2": "French",
+    "answer_3": "Italian",
+    "answer_4": "Dutch",
+    "right_answer": "German"
+  },
+  {
+    "title": "What is the most widely spoken language in South America?",
+    "answer_1": "Portuguese",
+    "answer_2": "English",
+    "answer_3": "Spanish",
+    "answer_4": "French",
+    "right_answer": "Spanish"
+  }
+]

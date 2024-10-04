@@ -1,0 +1,122 @@
+[
+  {
+    "title": "What is 5 + 7?",
+    "answer_1": "10",
+    "answer_2": "12",
+    "answer_3": "11",
+    "answer_4": "13",
+    "right_answer": "12"
+  },
+  {
+    "title": "What is the value of π (pi) up to two decimal places?",
+    "answer_1": "3.12",
+    "answer_2": "3.14",
+    "answer_3": "3.16",
+    "answer_4": "3.15",
+    "right_answer": "3.14"
+  },
+  {
+    "title": "What is the square root of 64?",
+    "answer_1": "7",
+    "answer_2": "8",
+    "answer_3": "9",
+    "answer_4": "6",
+    "right_answer": "8"
+  },
+  {
+    "title": "What is 15% of 200?",
+    "answer_1": "30",
+    "answer_2": "25",
+    "answer_3": "35",
+    "answer_4": "40",
+    "right_answer": "30"
+  },
+  {
+    "title": "What is 9 x 9?",
+    "answer_1": "81",
+    "answer_2": "72",
+    "answer_3": "91",
+    "answer_4": "99",
+    "right_answer": "81"
+  },
+  {
+    "title": "What is the perimeter of a square with side length 5 cm?",
+    "answer_1": "10 cm",
+    "answer_2": "15 cm",
+    "answer_3": "20 cm",
+    "answer_4": "25 cm",
+    "right_answer": "20 cm"
+  },
+  {
+    "title": "If a triangle has sides of lengths 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+    "answer_1": "Equilateral",
+    "answer_2": "Isosceles",
+    "answer_3": "Scalene",
+    "answer_4": "Right-angled",
+    "right_answer": "Right-angled"
+  },
+  {
+    "title": "What is the sum of the angles in a triangle?",
+    "answer_1": "360°",
+    "answer_2": "180°",
+    "answer_3": "90°",
+    "answer_4": "270°",
+    "right_answer": "180°"
+  },
+  {
+    "title": "What is 10²?",
+    "answer_1": "10",
+    "answer_2": "100",
+    "answer_3": "1000",
+    "answer_4": "110",
+    "right_answer": "100"
+  },
+  {
+    "title": "What is 25% of 80?",
+    "answer_1": "10",
+    "answer_2": "15",
+    "answer_3": "20",
+    "answer_4": "25",
+    "right_answer": "20"
+  },
+  {
+    "title": "If the radius of a circle is 7 cm, what is its diameter?",
+    "answer_1": "7 cm",
+    "answer_2": "14 cm",
+    "answer_3": "21 cm",
+    "answer_4": "28 cm",
+    "right_answer": "14 cm"
+  },
+  {
+    "title": "What is the next prime number after 7?",
+    "answer_1": "9",
+    "answer_2": "11",
+    "answer_3": "13",
+    "answer_4": "15",
+    "right_answer": "11"
+  },
+  {
+    "title": "What is 144 divided by 12?",
+    "answer_1": "11",
+    "answer_2": "12",
+    "answer_3": "13",
+    "answer_4": "14",
+    "right_answer": "12"
+  },
+  {
+    "title": "What is the cube of 3?",
+    "answer_1": "9",
+    "answer_2": "18",
+    "answer_3": "27",
+    "answer_4": "81",
+    "right_answer": "27"
+  },
+  {
+    "title": "If x + 5 = 10, what is the value of x?",
+    "answer_1": "10",
+    "answer_2": "5",
+    "answer_3": "0",
+    "answer_4": "-5",
+    "right_answer": "5"
+  }
+]
