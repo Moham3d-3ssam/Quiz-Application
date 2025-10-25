@@ -105,9 +105,9 @@ Each question comes with a 15-second countdown timer. If time runs out:
 - The question is marked as incorrect
 
 ### Scoring System
-- **Perfect**: Answer at least (total questions - 2) correctly
-- **Good**: Answer more than half but less than perfect score
-- **Bad**: Answer half or fewer questions correctly
+- **Perfect**: Answer at least 85% of questions correctly (e.g., 13+ out of 15 questions)
+- **Good**: Answer more than 50% but less than 85% correctly
+- **Bad**: Answer 50% or fewer questions correctly
 
 ### Question Navigation
 - Visual progress bullets show your position in the quiz
@@ -146,7 +146,11 @@ To add questions to any category, edit the corresponding JSON file in the `json/
 3. Add questions in the same format as existing categories
 
 ### Adjusting Timer Duration
-In `master.js`, locate the `countDownTime` function and modify the `duration` variable (currently set to 15 seconds).
+In `js/master.js`, locate the `countDownTime` function and modify the `duration` variable (line 257, currently set to 15 seconds):
+
+```javascript
+duration = 15; // Change this value to adjust the timer
+```
 
 ## 🤝 Contributing
 
